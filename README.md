@@ -1,27 +1,53 @@
-# EcomWebApp
+# Ecommerce application avec Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+## Partie Frontend  :
 
-## Development server
+### 7. La création d'un client Web Angular:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+On a utilisé le framework de Javascript Angular et le framework de CSS Bootstrap pour créer un client Web Angular.
 
-## Code scaffolding
+ ##### ---> app.component.html:
+ 
+ Création du navbar
+ 
+<img width="407" alt="1" src="https://user-images.githubusercontent.com/82985419/208250413-392a16c3-8324-4230-bcb9-b90c6d2231bf.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+##### ---> CustomersComponent (http://localhost:4200/customers) :
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+<img width="564" alt="21" src="https://user-images.githubusercontent.com/82985419/208250514-b5fd15ac-9605-499e-a5eb-f57f1c01b35e.png">
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+-> Mais pour traiter les factures des clients on a ajouter un bouton pour chaque client pour gérer les commandes.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<img width="759" alt="2" src="https://user-images.githubusercontent.com/82985419/208250438-f306c8dd-dfad-42a5-8e90-96f093b206c4.png">
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+##### ---> ProductsComponent (http://localhost:4200/products) :
+
+<img width="692" alt="3" src="https://user-images.githubusercontent.com/82985419/208250459-7d318d5d-7aba-4b06-a848-e2cd66f3680c.png">
+
+
+##### ---> OrdersComponent (http://localhost:4200/orders/{id}) :
+
+Quand on clique sur le bouton orders  (Customers page) et qui correspond à chaque client on aura l'interface suivante:
+
+<img width="686" alt="4" src="https://user-images.githubusercontent.com/82985419/208250473-5f85fb58-ae9f-4f23-982d-8293270bfd95.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
