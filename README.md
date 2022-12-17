@@ -27,6 +27,14 @@ Mais pour traiter les factures des clients on a ajouter un bouton pour chaque cl
 <img width="459" alt="16 12 2022_21 50 40_REC" src="https://user-images.githubusercontent.com/82985419/208186954-93020ab0-1bc3-4083-8c92-08bc443c8d3a.png">
 
 
+##### ---> OrdersComponent (http://localhost:4200/orders/{id}) :
+
+Quand on clique sur le bouton orders  (Customers page) et qui correspond à chaque client on aura l'interface suivante:
+
+<img width="726" alt="orders" src="https://user-images.githubusercontent.com/82985419/208249752-d931c66c-51ef-4da0-a321-82b090464150.png">
+
+
+
 
 
 
