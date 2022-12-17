@@ -1,27 +1,42 @@
-# EcomWebApp
+# Ecommerce application avec Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+## Partie Frontend  :
 
-## Development server
+### 7. La création d'un client Web Angular:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+On a utilisé le framework de Javascript Angular et le framework de CSS Bootstrap pour créer un client Web Angular.
 
-## Code scaffolding
+ ##### ---> app.component.html:
+ 
+ Création du navbar
+ 
+ <img width="374" alt="16 12 2022_21 53 56_REC" src="https://user-images.githubusercontent.com/82985419/208187220-7343b9ad-2a79-4469-8621-ee1aead78e9d.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+##### ---> CustomersComponent (http://localhost:4200/customers) :
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<img width="405" alt="16 12 2022_21 56 04_REC" src="https://user-images.githubusercontent.com/82985419/208187507-6a925c0f-3758-4ab0-a83b-56f475ee0161.png">
 
-## Running unit tests
+Mais pour traiter les factures des clients on a ajouter un bouton pour chaque client pour gérer ces commandes.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<img width="431" alt="16 12 2022_21 58 02_REC" src="https://user-images.githubusercontent.com/82985419/208187996-4e3e4d93-c631-44b2-b569-4fd07f1b0c34.png">
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+##### ---> ProductsComponent (http://localhost:4200/products) :
 
-## Further help
+<img width="459" alt="16 12 2022_21 50 40_REC" src="https://user-images.githubusercontent.com/82985419/208186954-93020ab0-1bc3-4083-8c92-08bc443c8d3a.png">
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
