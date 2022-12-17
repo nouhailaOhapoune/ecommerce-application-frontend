@@ -15,7 +15,8 @@ On a utilisé le framework de Javascript Angular et le framework de CSS Bootstra
 
 ##### ---> CustomersComponent (http://localhost:4200/customers) :
 
-<img width="405" alt="16 12 2022_21 56 04_REC" src="https://user-images.githubusercontent.com/82985419/208187507-6a925c0f-3758-4ab0-a83b-56f475ee0161.png">
+
+<img width="564" alt="21" src="https://user-images.githubusercontent.com/82985419/208250514-b5fd15ac-9605-499e-a5eb-f57f1c01b35e.png">
 
 
 -> Mais pour traiter les factures des clients on a ajouter un bouton pour chaque client pour gérer ces commandes.
