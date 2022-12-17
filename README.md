@@ -19,7 +19,7 @@ On a utilisé le framework de Javascript Angular et le framework de CSS Bootstra
 <img width="564" alt="21" src="https://user-images.githubusercontent.com/82985419/208250514-b5fd15ac-9605-499e-a5eb-f57f1c01b35e.png">
 
 
--> Mais pour traiter les factures des clients on a ajouter un bouton pour chaque client pour gérer ces commandes.
+-> Mais pour traiter les factures des clients on a ajouter un bouton pour chaque client pour gérer les commandes.
 
 <img width="759" alt="2" src="https://user-images.githubusercontent.com/82985419/208250438-f306c8dd-dfad-42a5-8e90-96f093b206c4.png">
 
